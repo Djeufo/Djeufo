@@ -71,15 +71,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djeufo&show_icons=true&locale=en&theme=gotham" alt="djeufo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=djeufo&show_icons=true&locale=en" alt="djeufo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djeufo&theme=gotham" alt="djeufo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djeufo" alt="djeufo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djeufo&show_icons=true&locale=en&layout=compact&theme=gotham" alt="djeufo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djeufo&show_icons=true&locale=en&layout=compact" alt="djeufo" />
 </p>
 
 <!--
