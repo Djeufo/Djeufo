@@ -52,6 +52,9 @@
 
 <p align="center">
 
+## 🌐 Connect with Me
+[![Follow](https://img.shields.io/github/followers/djeufo?label=Follow&style=social)](https://github.com/djeufo)
+
 <a href="https://www.linkedin.com/in/djeufo-moo-zeuna-chanel-boris-2552311b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dje" height="30" width="40" /></a>
 
 <!--
@@ -93,3 +96,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeufo)
 
 ## -->
+---
+
+## 📂 Highlight Projects
+- [Project Name](https://github.com/yourusername/project) — Short 1-line description.
+- [Another Project](https://github.com/yourusername/another) — What tech you used or problem it solves.
+
+## 🔗 Links
+[Portfolio Website](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Resume](https://yourlink.com/resume.pdf)
