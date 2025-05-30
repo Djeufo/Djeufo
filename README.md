@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **chanelboris@gmail.com**
 
-- ⚡ Fun fact: *I'm turning backend logic into magic ✨*
+- ⚡ Fun fact: _I'm turning backend logic into magic ✨
 
 ---
 
@@ -34,8 +34,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/macOS-0078D6?style=for-the-badge&logo=apple&logoColor=white"/>
--->
+
 </p>
+
+---
+
+### 🦊 GitLab
+
+- 🔗 [gitlab.com/Djeufo](https://gitlab.com/Djeufo)
+- 🧰 Tech Stack: Java, Spring Boot, GitLab CI/CD
+- 🧪 Projects related to backend automation & pipelines
+
 
 ---
 
@@ -56,28 +65,21 @@
 -->
 </p>
 
----
-
-### 🦊 GitLab
-
-- 🔗 [gitlab.com/Djeufo](https://gitlab.com/Djeufo)
-- 🧰 Tech Stack: Java, Spring Boot, GitLab CI/CD
-- 🧪 Projects related to backend automation & pipelines
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djeufo&show_icons=true&locale=en" alt="djeufo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=djeufo&show_icons=true&locale=en&theme=gotham" alt="djeufo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djeufo&" alt="djeufo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djeufo&theme=gotham" alt="djeufo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djeufo&show_icons=true&locale=en&layout=compact" alt="djeufo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djeufo&show_icons=true&locale=en&layout=compact&theme=gotham" alt="djeufo" />
 </p>
 
 <!--
@@ -91,4 +93,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeufo)
 
 ## -->
-
