@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/macOS-0078D6?style=for-the-badge&logo=apple&logoColor=white"/>
-    
+
 
 </p>
 
@@ -74,12 +74,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djeufo&show_icons=true&locale=en&layout=compact" alt="djeufo" />
 </p>
 
+---
+
 ### 📊 Developer Stats
 
 #### GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djeufo&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeufo)
 
+
+---
 
 ### 🦊 GitLab
 - 🔗 [gitlab.com/Djeufo](https://gitlab.com/Djeufo)
