@@ -13,11 +13,11 @@
 
 - 📫 How to reach me: **chanelboris@gmail.com**
 
-- ⚡ Fun fact: _I'm turning backend logic into magic ✨
+- ⚡ Fun fact: \_I'm turning backend logic into magic ✨
 
 ---
 
-### 🛠 Languages and Tools:
+## 🛠 Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -39,20 +39,16 @@
 
 ---
 
-### 🦊 GitLab
+## 🦊 GitLab
 
 - 🔗 [gitlab.com/Djeufo](https://gitlab.com/Djeufo)
 - 🧰 Tech Stack: Java, Spring Boot, GitLab CI/CD
 - 🧪 Projects related to backend automation & pipelines
 
-
 ---
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="center">
-
 ## 🌐 Connect with Me
+
 [![Follow](https://img.shields.io/github/followers/djeufo?label=Follow&style=social)](https://github.com/djeufo)
 
 <a href="https://www.linkedin.com/in/djeufo-moo-zeuna-chanel-boris-2552311b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dje" height="30" width="40" /></a>
@@ -68,10 +64,9 @@
 -->
 </p>
 
-
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djeufo&show_icons=true&locale=en" alt="djeufo" />
@@ -86,9 +81,8 @@
 </p>
 
 <!--
----
 
-### 📊 Developer Stats
+## 📊 Developer Stats
 
 #### GitHub
 
@@ -96,11 +90,16 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeufo)
 
 ## -->
----
+
+<!--
 
 ## 📂 Highlight Projects
+
 - [Project Name](https://github.com/yourusername/project) — Short 1-line description.
 - [Another Project](https://github.com/yourusername/another) — What tech you used or problem it solves.
 
 ## 🔗 Links
+
 [Portfolio Website](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Resume](https://yourlink.com/resume.pdf)
+
+-->
