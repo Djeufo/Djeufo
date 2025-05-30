@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/macOS-0078D6?style=for-the-badge&logo=apple&logoColor=white"/>
-
+-->
 </p>
 
 ---
@@ -55,6 +55,14 @@
 
 -->
 </p>
+
+---
+
+### 🦊 GitLab
+
+- 🔗 [gitlab.com/Djeufo](https://gitlab.com/Djeufo)
+- 🧰 Tech Stack: Java, Spring Boot, GitLab CI/CD
+- 🧪 Projects related to backend automation & pipelines
 
 ---
 
@@ -83,10 +91,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djeufo)
 
 ## -->
----
 
-### 🦊 GitLab
-
-- 🔗 [gitlab.com/Djeufo](https://gitlab.com/Djeufo)
-- 🧰 Tech Stack: Java, Spring Boot, GitLab CI/CD
-- 🧪 Projects related to backend automation & pipelines
